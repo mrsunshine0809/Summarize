@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+electricity produced from certain renewable resources.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Electricity from renewable resources is produced through various methods, including solar, wind, and hydro. These resources can be used to power homes and businesses, create electricity for the grid, or generate heat and power.

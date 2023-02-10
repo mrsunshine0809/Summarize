@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+electricity produced from certain renewable resources.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Electricity from renewable resources can be produced through electricity generation and transmission. Electricity can be used for heating and cooling, lighting, and powering machines.

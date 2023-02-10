@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+/ E u g e n e L e o B l o c k c h a i n  a n d  F u l l  S t a c k E n g i n e e rdevsunshine89@gmail.com  222 NORTH OLD YORK ST  WESTBURY, NY 11590 Date of birth 12/28/1992  United state  Married (with child)  Web skill React.JS, Vue.js, Electron, React Native, Django, Flask, MySQL, MongoDB, PostgreSQL Blockchain skill ERC20 | ERC 721 | ERC 1155 | BEP tokens & Presale website Defi | DEX website (various of defi protocols and swap protocols) NFT token development & NFT marketplace development & NFT presale website & - NFT game development Consensus Algorithm, Nonce, Block generation Algorithm, Polkadot Substrate, Solana, Rust, CARDANO, Haskell, Plutus, Go, C Other skill AWS EC2, DynamoDB, Lambda, API gateway, Transcription, RDS, Elastic IP, S3, Router Github, Gitlab, Bitbucket, Jira, Trello Bachelor's degree Computer Science From April 2010 to March 2015 University of Toronto  Toronto, Ontario Canada Defi | Web3 | Full-Stack Developer  Audit the already created Defi smart contracts.  Developed smart contracts for tranding ERC20 tokens.  Developed one dex platform based on the Deri protocol(https://deri.finance).  Integrated the Loan platform by using Compound protocol(https://compound.finance)  Developed nft marketplace(smart contract | Web3 | centralized backend) involving sale | blocking | rental features.  Attended to the Realm Metaverse project as a web3 engineer. From January 2022 to October 2022 PRIVI Remote Cardano Haskell | Plutus Contract Engineer | Fullstack Developer  Attended NFT marketplace development based on the Cardano Blockchain  Developed the Smart Contract by using Haskell | Plutus  Created whole infrastructure of the Cardano Blockchain Marketplace Project  Created and Developed whole structure of AWS lambda apis based on Node.js  AWS CloudFront, Amazon Cognito, AWS CloudFormation, AWS Lambda, AWS s3  Developed Website for authentication by using React.js  Managed 5 developers for backend & frontend development From July 2021 to
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This person has a degree in Computer Science and is currently working as a full-stack developer. They have experience with React.JS, Vue.JS, Electron, React Native, Django, Flask, MySQL, MongoDB, PostgreSQL, and blockchain technology. They also have experience with Web3, Dex, and NFT development. They are also a skilled contractor with experience working on a number of NFT projects.
